@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e66171912e7ead62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6335f01e01c57c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57bc8985668ab9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/UFO UAP：灵能（Psionics）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UFO UAP：灵能（Psionics）"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99c976978bbdb760",
+    "type": "split",
+    "children": [
+      {
+        "id": "73a9b0786f83f950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6513338d66c226",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14f77b39a0870682",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95c2be2abdfefe7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 506.5
+  },
+  "right": {
+    "id": "7e74d3edbc35d57a",
+    "type": "split",
+    "children": [
+      {
+        "id": "190579cd654843b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3485e0d4d56f1eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "148089c673263ede",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1fb97003e95f58aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b4689392dede2ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "24f34f099e2935fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c57bc8985668ab9c",
+  "lastOpenFiles": [
+    "output/nhi-consciousness-disclosure-synthesis.md",
+    "raw/UFO UAP：灵能（Psionics）.md",
+    "wiki/index.md",
+    "raw/Eric Weinstein.md",
+    "wiki/David Grusch.md",
+    "raw/MJ-12（Majestic 12）特种作战手册.md",
+    "raw/灵魂场与宇宙神化：外星生命的形而上学纲领.md",
+    "output/uap-nhi-epistemic-trap-synthesis.md",
+    "idea_museum/Seed_X_球体网络把幽灵重新定义为AI防火墙_20260524.md",
+    "output/uap-nhi-epistemic-trap-synthesis.md.tmp.28688.44f6ee05008e",
+    "idea_museum/Seed_X_三指木乃伊骗局揭示UFO研究者的科学盲点_20260524.md",
+    "idea_museum/Seed_X_神圣议会是古已有之术语却被当成启示_20260524.md",
+    "output/nhi-human-dna-insider-dualtrack-synthesis.md",
+    "output/ebo-bioengineering-evidence-synthesis.md",
+    "output/ebo-consciousness-metaphysics-synthesis.md",
+    "output/grusch-testimony-epistemology-synthesis.md",
+    "output/experiencer-narrative-cognitive-synthesis.md",
+    "_history/runs.md.tmp.28688.b400903c1429",
+    "_history/synthesized_notes.md.tmp.28688.e7fe56b221b0",
+    "output/nhi-human-dna-insider-dualtrack-synthesis.md.tmp.28688.793ac262467f",
+    "output/aaro-disclosure-accountability-synthesis.md",
+    "raw/From Grok and Gemini Chat.md",
+    "raw/超心理学（Parapsychology）的研究领域概述.md",
+    "raw/布加球体（Buga Sphere）研究的最新更新 （截至2026年5月22日）.md",
+    "raw/克里斯·布莱索（Chris Bledsoe）UAP接触事件后续信息的平衡分析.md",
+    "raw/Grusch相关传闻及古代神话关联分析.md",
+    "raw/秘鲁三指木乃伊（Nazca Tridactyl Mummies）：争议、科学证据与文化意义.md",
+    "raw/Patrick Jackson 球体网络理论.md",
+    "raw/EBO（Exo-Biospheric Organisms，外星生物实体）生物特征与嵌合基因组研究报告.md",
+    "raw/灵场、负熵与神化：意识进化的形而上学纲领.md",
+    "wiki/NHI（非人类智能）.md.tmp.32408.7bb8841fd37d",
+    "wiki/index.md.tmp.32408.f8fc031aa473",
+    "wiki/意识与UAP技术接口（MOC）.md.tmp.32408.af282669b6b6",
+    "wiki/灵能辅助技术（Psionic Assists）.md.tmp.32408.5674c3702415",
+    "wiki/UAP现象的宗教起源与未来引线.md.tmp.32408.28164647fac2",
+    "wiki/NHI（非人类智能）.md.tmp.32408.ccbefe5f44ac"
+  ]
+}

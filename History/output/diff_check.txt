@@ -1,0 +1,94 @@
+Total raw: 83
+Known sources: 39
+New files: 57
+
+=== NEW FILES ===
+raw/1.1. 古基因组学（aDNA）与人类生物演化.md
+raw/1.2. 史前考古发现与农业起源谜团.md
+raw/1.3. 古代文明、古典帝国与跨区域互动.md
+raw/1.4. 宗教史、圣经考古与文本批评.md
+raw/1.5. 中世纪历史、骑士团与跨文化碰撞.md
+raw/1.6. 全球通史观, 历史理论与社会动力学.md
+raw/2.1 历史理论、演变模型与周期律 (Historical Theories & Cycles).md
+raw/2.2 古代文明与帝国的兴衰 (Ancient Civilizations & Empires).md
+raw/2.3. 宗教、哲学与思想史 (Religion, Philosophy & Ideas).md
+raw/2.4. 科学革命、技术与数字人文 (Science, Technology & Digital Humanities).md
+raw/2.5. 现代国家、革命与地缘政治 (Modern States, Revolutions & Geopolitics).md
+raw/2.7. 考古遗传学、社会病理学与未来展望 (Archaeogenetics & Sociology).md
+raw/AI时代的个人策略深入讨论：基于Universe 25警示与2026最新AI结构性冲击的综合应对框架.md
+raw/Civilization YouTube Series Extraction (1).md
+raw/Civilization YouTube Series Extraction (2).md
+raw/Civilization YouTube Series Extraction (3).md
+raw/Civilization YouTube Series Extraction (4).md
+raw/Civilization YouTube Series Extraction (5).md
+raw/Civilization YouTube Series Extraction （6）.md
+raw/Digital Humanities + AI.md
+raw/Geo-Strategy from Jiang.md
+raw/Grok and Gemini Chats.md
+raw/History Takeaways.md
+raw/LiDAR（激光雷达）(2).md
+raw/“软着陆”的生存法则.md
+raw/乔治奥·阿甘本 research.md
+raw/亚马逊“花园城市”网络：低密度城市主义的政治逻辑与分布式治理模式.md
+raw/享利·基辛格：基辛格越战回忆录.md
+raw/人类文明编年史综合时间线.md
+raw/伊斯兰科学革命流产-全球史（Global History）与知识社会学.md
+raw/公元前4.2ka天气巨变&“中世纪温暖期与小冰期切换”引发的极端气候波动.md
+raw/制度理论 - Grok.md
+raw/区域历史与文化.md
+raw/印度次大陆早期文明的“反文字”悖论与知识防灾机制.md
+raw/印度河文字（Indus Script）研究的2026年AI突破.md
+raw/历史动力学（Cliodynamics）- Grok.md
+raw/历史理论与范式.md
+raw/古DNA (aDNA) 与环境DNA (eDNA).md
+raw/古老语言及文字系统 - 起源与继承关系.md
+raw/哈佛大学遗传学家大卫·赖克（David Reich）：以下是关于古基因组学（aDNA）与人类演化.md
+raw/基于 LiDAR 考古与结构人口学的“文明软着陆”评估框架.md
+raw/大人物理论（Great Man Theory，或称英雄理论、伟人理论）.md
+raw/宏观历史（Macrohistory）与大历史（Big History） - Grok.md
+raw/尤瓦尔·赫拉利：人类简史——从动物到上帝.md
+raw/尼尔·豪（Neil Howe）关于“第四转折期”（The Fourth Turning）和世代轮替理论.md
+raw/心理历史学（Psychohistory）- Grok.md
+raw/文艺复兴：不是圣战的副产品，是发票的副产品.md
+raw/温斯顿·丘吉尔：第二次世界大战回忆录.md
+raw/用现代历史理论重新解构人类历史 - 结构性周期、精英博弈、神话叙事与复杂性门槛.md
+raw/神话作为历史的真正引擎 - 尤瓦尔·赫拉利.md
+raw/精英过剩（Elite Overproduction）理论 - Grok.md
+raw/纯编码 vs 语言化-历史认识论（Historical Epistemology）与文字生态学（Grapho-ecology）.md
+raw/认知硬分叉：哈拉帕的编码网络与婆罗门的人脑“区块链”.md
+raw/贾雷德·戴蒙德：枪炮、病菌与钢铁——人类社会的命运.md
+raw/锡安主义Zionism 的起源、历史与意识形态解析 - Grok.md
+raw/阿卡德帝国：人类历史上第一个“世界帝国”的兴起与“尘埃末日”.md
+raw/阿诺德·汤因比：第二次世界大战战史大全.md
+
+=== KNOWN SOURCES (sample) ===
+raw/AI时代的个人策略深入讨论...md
+raw/AI时代的认知替代、行为沉没与目的工程响应模型.md
+raw/LiDAR（激光雷达）与AI.md
+raw/Untitled.md
+raw/filename.md
+raw/filename2.md
+raw/中国汉族人基因组的演化史与遗传蓝图.md
+raw/亚马逊"花园城市"网络：低密度城市主义的政治逻辑与分布式治理模式.md
+raw/亚马逊花园城市网络（低密度城市主义）.md
+raw/人类文字与语言的全球进化.md
+raw/人类早期宗教的产生.md
+raw/从十字军到AI考古的五个颠覆性真相.md
+raw/公元前4.2ka天气巨变&"中世纪温暖期与小冰期切换"引发的极端气候波动.md
+raw/公元前4.2ka天气巨变（古气候研究）.md
+raw/农业考古问题.md
+raw/农业革命后自然选择加速.md
+raw/印度次大陆早期文明的"反文字"悖论与知识防灾机制.md
+raw/历史思辨-OpenAI.md
+raw/历史阴谋论的事实核查.md
+raw/古人类基因组对比：中国汉族人、西藏人、南亚人和欧洲人.md
+raw/哲学与现代性.md
+raw/商业城邦的贡献远大于圣殿骑士团.md
+raw/大洋洲人类迁徙的两个截然不同阶段.md
+raw/太平洋岛屿人群（尤其是波利尼西亚人）的基因源头.md
+raw/失落文明的灾变、遗迹与科学博弈.md
+raw/宗教、资本主义与社会.md
+raw/尼尔豪第四转折期.md
+raw/意义稀缺与现代性危机：基于历史哲学、行为生态学与世代轮替理论的文明路径审视.md
+raw/文明演进与帝国.md
+raw/时间观碰撞&响应策略差异.md

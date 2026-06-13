@@ -1,0 +1,42 @@
+"软着陆"的生存法则.md
+  raw/: False, name_only: False, first15: False
+
+亚马逊"花园城市"网络：低密度城市主义的政治逻辑与分布式治理模式.md
+  raw/: True, name_only: True, first15: True
+
+享利·基辛格：基辛格越战回忆录.md
+  raw/: False, name_only: False, first15: False
+
+公元前4.2ka天气巨变&"中世纪温暖期与小冰期切换"引发的极端气候波动.md
+  raw/: True, name_only: True, first15: True
+
+印度次大陆早期文明的"反文字"悖论与知识防灾机制.md
+  raw/: True, name_only: True, first15: True
+
+基于 LiDAR 考古与结构人口学的"文明软着陆"评估框架.md
+  raw/: True, name_only: True, first15: True
+
+尤瓦尔·赫拉利：人类简史——从动物到上帝.md
+  raw/: False, name_only: False, first15: False
+
+尼尔·豪（Neil Howe）关于"第四转折期"（The Fourth Turning）和世代轮替理论.md
+  raw/: True, name_only: True, first15: True
+
+文艺复兴：不是圣战的副产品，是发票的副产品.md
+  raw/: False, name_only: False, first15: False
+
+温斯顿·丘吉尔：第二次世界大战回忆录.md
+  raw/: False, name_only: False, first15: False
+
+认知硬分叉：哈拉帕的编码网络与婆罗门的人脑"区块链".md
+  raw/: False, name_only: False, first15: False
+
+贾雷德·戴蒙德：枪炮、病菌与钢铁——人类社会的命运.md
+  raw/: False, name_only: False, first15: False
+
+阿卡德帝国：人类历史上第一个"世界帝国"的兴起与"尘埃末日".md
+  raw/: True, name_only: True, first15: True
+
+阿诺德·汤因比：第二次世界大战战史大全.md
+  raw/: False, name_only: False, first15: False
+

@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2de9e066adf20185",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb0a068f85c1f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e51cba869e60817f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d275308360be279",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df449e88d32bf7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d55d4ca39539cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dca74762bfb1a958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "311818e05b4f0f08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "95a1f67018a16e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d58de91ed55ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53dca5ec94251b62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "08943435f043925c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f2dd57f73cb72a12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1c90dfc6b38113f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dfa3643a5e0932cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e51cba869e60817f",
+  "lastOpenFiles": [
+    "Clippings/Loss or gain of function Effects of ion channel mutations on neuronal firing depend on the neuron type.md",
+    "wiki/汉尼拔与迦太基战略.md",
+    "wiki/index.md",
+    "raw/内在诺斯替体验在意大利文艺复兴中的复兴：历史分析与当代反思.md",
+    "raw/1945.md",
+    "raw/Medieval Knightly Orders and the Commercial Roots of the Renaissance.md",
+    "raw/AI and Computational Epigraphy for Lost Scripts.md",
+    "raw/Biblical Origins and the Documentary Hypothesis.md",
+    "raw/LiDAR Technology and Tropical Low-Density Urbanism.md",
+    "raw/Genomic Legacies - Neanderthals, Denisovans, and Modern Health.md",
+    "raw/农业考古问题 & 4.2ka天气巨变.md",
+    "output/meaning-institutionalization-paradox-synthesis.md",
+    "wiki/赫库兰尼姆卷轴.md",
+    "idea_museum/Seed_X_你的供应链比军队更脆弱_20260530.md",
+    "idea_museum/Seed_X_意义重建是AI时代新奢侈品_20260530.md",
+    "wiki/考古遗传学（aDNA）.md",
+    "wiki/贡布里希艺术史方法论.md",
+    "raw/温斯顿·丘吉尔：第二次世界大战回忆录.md",
+    "output/british-empire-modernity-colonial-shadow-synthesis.md",
+    "_history/Linting_Report_2026-05-30_1830.md",
+    "_history/Linting_Report_2026-05-30_1830.md.tmp.27984.b4167b902060",
+    "wiki/文明之光-能量信息驱动论.md.tmp.27984.516089e295df",
+    "wiki/基督教历史证据论证与意义危机.md.tmp.27984.debd8308dce1",
+    "wiki/精英过剩与社会崩溃.md",
+    "raw/关于基督教、历史证据和生命意义.md",
+    "raw/汉尼拔.md",
+    "wiki/认知硬分叉与婆罗门分布式记忆.md",
+    "_history/runs.md.tmp.34416.f03829b984f9",
+    "_history/Linting_Report_2026-05-29_1117.md",
+    "_history/Linting_Report_2026-05-29_1117.md.tmp.34416.925111e3a167",
+    "fix_metadata.py",
+    "fix_metadata.py.tmp.34416.ec3b9e1c2a6e",
+    "output/information-architecture-fragility-synthesis.md",
+    "_history/runs.md.tmp.34416.23aade608708",
+    "_history/synthesized_notes.md.tmp.34416.767ff1c6f4f6",
+    "_history/IdeaHarvest_2026-05-29_1035.md.tmp.34416.f08646839a2b"
+  ]
+}

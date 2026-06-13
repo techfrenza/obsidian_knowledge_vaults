@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "raw/",
+    "_history/",
+    "output/"
+  ],
+  "alwaysUpdateLinks": true
+}

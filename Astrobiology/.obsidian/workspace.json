@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "725e8ae716fa8c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2138841b52f3c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e23080a99ab51839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output/biosignature-detection-epistemology-synthesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "biosignature-detection-epistemology-synthesis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15c868d4d8752637",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca70994cd9cf76f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1321366a70413faa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa2b892a6f1083b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3854d4b0dd7246a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "be7537e728c65903",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c651ea069f22ea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8abcb0b1b2d4a4c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2f775f1ef4d34889",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "930e478346a91fe2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "083f46f4f747da7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bc7195a317d42daa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e23080a99ab51839",
+  "lastOpenFiles": [
+    "wiki/Mars Sample Return.md",
+    "wiki/index.md",
+    "wiki/Hycean World.md",
+    "idea_museum/Seed_Social_FalseNegative_Blind_Spot_20260610.md",
+    "raw/2406.09354v1.pdf",
+    "raw/Unconfirmed 627561.crdownload",
+    "raw/2503.21919v1.pdf",
+    "raw/Unconfirmed 134564.crdownload",
+    "raw/Shihetal2016.pdf",
+    "raw/Unconfirmed 107811.crdownload",
+    "raw/Early Archean origin of Photosystem II.md",
+    "raw/Unconfirmed 696172.crdownload",
+    "raw/“A Lot of Evolution”_ LUCA Required 2,600 Genes.md",
+    "raw/Unconfirmed 223826.crdownload",
+    "raw/2341950.pdf",
+    "raw/Unconfirmed 830234.crdownload",
+    "raw/A New View of the Last Universal Common Ancestor.md",
+    "raw/Bayesian Uncertainty Quantification and Reliability Assessment for Mars Sample Return.md",
+    "raw/On the Potential of Silicon as a Building Block for Life.md",
+    "raw/Ammonia as a parameter shaping habitability on icy moons.md",
+    "raw/Astrovirology_ how viruses enhance our understanding of life in the Universe _ International Journal of Astrobiology.md",
+    "Clippings/Exploring genetic adaptation and microbial dynamics in engineered anaerobic ecosystems via strain-level metagenomics.md",
+    "raw/Exploring genetic adaptation and microbial dynamics in engineered anaerobic ecosystems via strain-level metagenomics.md",
+    "Clippings/Fear of the SaaSpocalypse is tormenting techland.md",
+    "Clippings/NASA Astrobiology.md",
+    "Clippings/Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy.md",
+    "raw/Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy.md",
+    "output/the-last-mile-problem-of-finding-alien-life/the-last-mile-problem-of-finding-alien-life_CN.md",
+    "output/the-last-mile-problem-of-finding-alien-life/the-last-mile-problem-of-finding-alien-life_X.md",
+    "output/the-last-mile-problem-of-finding-alien-life/banner_prompt.md",
+    "output/the-last-mile-problem-of-finding-alien-life/Gemini_Generated_Image_ihp3idihp3idihp3.png",
+    "output/biosignature-detection-epistemology-synthesis.md",
+    "output/the-last-mile-problem-of-finding-alien-life/the-last-mile-problem-of-finding-alien-life_EN.md",
+    "wiki/Astrobiology.md",
+    "_history/synthesized_notes.md",
+    "_history/IdeaHarvest_2026-06-10_1400.md",
+    "wiki/Biosignature.md"
+  ]
+}

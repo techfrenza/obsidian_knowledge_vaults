@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "738bdd0359f57170",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c42246027612c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e2a456e15281d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output/crispr-access-barriers-ghost-lineage-synthesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "crispr-access-barriers-ghost-lineage-synthesis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91bd33c01292d072",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0c68794252e129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecfe279a75117a2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5349e2a9b1079fb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "496db3e492cafb2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "b7b514909e598570",
+    "type": "split",
+    "children": [
+      {
+        "id": "718c848ca0ed0b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40777c3fc5c28887",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "01aa3bc296f4fff2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "661037fe8ab38bd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e9fb0d4d07ce001",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72a3738e147f7653",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "87e2a456e15281d6",
+  "lastOpenFiles": [
+    "idea_museum/Seed_Social_Ghost_Reverses_Evolution_20260611.md",
+    "raw/基因组编辑的技术栈从单一序列视角提升到多维动态系统层面.md",
+    "output/crispr-access-barriers-ghost-lineage-synthesis.md",
+    "output/gene-expression-error-tolerance-synthesis.md",
+    "wiki/index.md",
+    "_history/runs.md.tmp.6860.0bb5396c6dd8",
+    "_history/synthesized_notes.md.tmp.6860.292589d1bfc7",
+    "output/crispr-access-barriers-ghost-lineage-synthesis.md.tmp.6860.485e6d1a3162",
+    "_history/IdeaHarvest_2026-06-11_1400.md",
+    "_history/IdeaHarvest_2026-06-11_1400.md.tmp.6860.f92cd6706a0e",
+    "idea_museum/Seed_X_TIN2TelomereMetabolism_20260611.md",
+    "idea_museum/Seed_X_TIN2TelomereMetabolism_20260611.md.tmp.6860.dea087646b09",
+    "idea_museum/Seed_X_PrimeEditingObsoletesHDRNHEJ_20260611.md",
+    "idea_museum/Seed_X_EigenParadoxFirstLife_20260611.md",
+    "idea_museum/Seed_X_EigenParadoxFirstLife_20260611.md.tmp.6860.a82216243f3b",
+    "idea_museum/Seed_X_ChromosomeEndsDSBParadox_20260611.md",
+    "idea_museum/Seed_X_SalamanderMoreDNAThanHuman_20260611.md",
+    "idea_museum/Seed_X_SalamanderMoreDNAThanHuman_20260611.md.tmp.6860.8f954db2d1d2",
+    "idea_museum/Seed_Tech_PrimeEditingDSBlessRevolution_20260611.md",
+    "idea_museum/Seed_Tech_PrimeEditingDSBlessRevolution_20260611.md.tmp.6860.af7115a6341a",
+    "idea_museum/Seed_Tech_TIN2MitochondrialDualRole_20260611.md",
+    "raw/removable/Ghost Lineages Highly Influence the Interpretation of Introgression Tests 1.md",
+    "idea_museum/Seed_Tech_TRF2NHEJTelomereParadox_20260611.md",
+    "idea_museum/Seed_Tech_TRF2NHEJTelomereParadox_20260611.md.tmp.6860.e6c6da19e9bb",
+    "idea_museum/Seed_Tech_CValueParadoxDSBRepair_20260611.md",
+    "idea_museum/Seed_Tech_CValueParadoxDSBRepair_20260611.md.tmp.6860.d4e12d2d328c",
+    "idea_museum/Seed_Tech_EigenParadoxRNAWorld_20260611.md",
+    "raw/CLEAN_REPORT.md",
+    "_history/TRIAGE_REPORT.md",
+    "_history/Triage_2026-06-11_1048.md",
+    "_history/LinkingPass_2026-06-11_1230.md",
+    "idea_museum/Seed_Tech_3D_Genome_CRISPR_Prediction_20260611.md",
+    "idea_museum/Seed_Tech_GQ_CRISPR_Efficiency_Inversion_20260611.md",
+    "wiki/Mutation Rate vs Fidelity Trade-off.md",
+    "wiki/Ghost Lineage Effect on Branch Lengths.md",
+    "raw/Ghost lineages can invalidate or even reverse findings regarding gene flow.md"
+  ]
+}
