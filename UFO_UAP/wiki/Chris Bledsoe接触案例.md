@@ -4,6 +4,7 @@ parent: "[[NHI（非人类智能）]]"
 tags: [UAP, contact, experiencer, CIA, NASA, high-strangeness]
 stub: false
 date: 2026-05-24
+category: event
 ---
 
 # Chris Bledsoe接触案例
@@ -59,5 +60,7 @@ date: 2026-05-24
 - [[超心理学（Parapsychology）]] — 失踪时间的临床/心理学解释路径
 - [[NHI（非人类智能）]] — 体验者案例在NHI证据光谱中的位置
 - [[UAP现象的宗教起源与未来引线]] — 灵性接触框架的历史溯源
+- [[Timothy Taylor（Tyler D）人物档案]] — "Tim Taylor"详细背景与"意识下载"主张
+- [[Garry Nolan的UAP研究]] — 生物天线神经结构研究，与Bledsoe家族案例关联
 
 [Source: raw/克里斯·布莱索（Chris Bledsoe）UAP接触事件后续信息的平衡分析.md]

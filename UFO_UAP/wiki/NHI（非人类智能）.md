@@ -24,7 +24,7 @@ category: theory
 ## DNA相关主张
 - [[John Ramirez]] 转述：CIA对NHI组织中发现"人类基因标记"感兴趣（二战后）
 - [[区分独立进化外星生物与生物机器人的方法]] 提供生物学鉴别方法
-- [[David Grusch]] 国会证词：提及"non-human biologics"及工程化同位素比率
+- [[wiki/David Grusch]] 国会证词：提及"non-human biologics"及工程化同位素比率
 
 ## 相关链接
 - [[Mike Masters与未来人类时间旅行假说]]

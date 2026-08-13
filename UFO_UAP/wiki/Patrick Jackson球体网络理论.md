@@ -4,6 +4,7 @@ parent: "[[NHI（非人类智能）]]"
 tags: [NHI, UAP, paranormal, AI, sphere-network, poltergeist]
 stub: false
 date: 2026-05-24
+category: theory
 ---
 
 # Patrick Jackson球体网络理论

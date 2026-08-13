@@ -1,16 +1,23 @@
 ---
-title: "Grusch相关传闻与古代神话关联"
-parent: "[[David Grusch]]"
-tags: [Grusch, ancient-aliens, Nephilim, Divine-Council, biblical, UAP]
+title: Grusch相关传闻与古代神话关联
+parent: "[[wiki/David Grusch]]"
+tags:
+  - Grusch
+  - ancient-aliens
+  - Nephilim
+  - Divine-Council
+  - biblical
+  - UAP
 stub: false
 date: 2026-05-24
+category: theory
 ---
 
 # Grusch相关传闻与古代神话关联
 
 ## 定义
 
-围绕[[David Grusch]]的传闻延伸：据一位与美国众议员Eric Burlison交谈的人士透露，Grusch曾将其介绍给一位据称能与"外星人或天使"对话的个人，由此引发UAP与圣经叙事的交叉解读。
+围绕[[wiki/David Grusch]]的传闻延伸：据一位与美国众议员Eric Burlison交谈的人士透露，Grusch曾将其介绍给一位据称能与"外星人或天使"对话的个人，由此引发UAP与圣经叙事的交叉解读。
 
 **来源性质**：第二至第三手传闻，无官方证实，属于UAP披露运动中的灵性转向叙事。
 
@@ -35,7 +42,7 @@ date: 2026-05-24
 该框架体现了2025-2026年UAP讨论中的**宗教转向趋势**：
 - 与[[UAP现象的宗教起源与未来引线]]中的"古神=ETI"框架高度一致
 - 与[[EBO信仰：灵魂场与神化概念]]中"宇宙园丁"叙事存在哲学共通之处（无须人格化神）
-- 与Collins Elite"恶魔欺骗"论形成对比：此处为救赎性解读
+- 与[[Collins Elite：恶魔叙事派系|Collins Elite]]"恶魔欺骗"论形成对比：此处为救赎性解读
 
 ## 矛盾与争议
 
@@ -46,7 +53,7 @@ date: 2026-05-24
 
 ## 相关链接
 
-- [[David Grusch]] — 核心人物背景
+- [[wiki/David Grusch]] — 核心人物背景
 - [[UAP现象的宗教起源与未来引线]] — 古代神话/宗教与UAP的系统性关联框架
 - [[NHI（非人类智能）]] — Nephilim=NHI假说的理论位置
 - [[外星智能：灵性科学视角（Daskalos-Steiner）]] — 灵性框架下的ETI性质

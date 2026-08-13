@@ -4,6 +4,7 @@ parent: "[[灵能（Psionics）与UAP意识接口]]"
 tags: [parapsychology, consciousness, ESP, psychokinesis, NDE, UAP]
 stub: false
 date: 2026-05-24
+category: concept
 ---
 
 # 超心理学（Parapsychology）

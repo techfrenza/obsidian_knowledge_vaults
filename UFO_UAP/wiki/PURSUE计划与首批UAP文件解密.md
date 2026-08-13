@@ -44,7 +44,7 @@ category: program
 - [[John Ramirez]] — CIA前分析师，UAP内部信息来源
 - [[UAP披露历史]] — 宏观政策脉络
 - [[灵能辅助技术（Psionic Assists）]] — 军方内部UAP互动技术
-- [[David Grusch]] — 2023年国会证词是推动PURSUE成立的舆论压力来源
+- [[wiki/David Grusch]] — 2023年国会证词是推动PURSUE成立的舆论压力来源
 
 ## 矛盾与争议
 - 文件多为扫描件，数千页原始记录，真正价值依赖后续批次

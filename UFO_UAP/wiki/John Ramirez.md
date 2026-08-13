@@ -38,5 +38,7 @@ category: person
 - [[NHI（非人类智能）]] — DNA研究的对象主体
 - [[UAP披露历史]] — 宏观披露框架
 - [[PURSUE计划与首批UAP文件解密]] — 当前解密进程
+- [[John Ramirez：CIA基因研究声明]] — 本页声明的详细专题页（含批判性评估）
+- [[EBO生物特征与嵌合基因组]] — 外星DNA/基因研究的相关叙事
 
 [Source: raw/John Ramirez转述Haines的表达.md]
