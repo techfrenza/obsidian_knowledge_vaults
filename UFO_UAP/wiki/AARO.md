@@ -19,5 +19,8 @@ category: organization
 - [[PURSUE计划与首批UAP文件解密]] — AARO参与首批161份文件解密发布
 - [[John Ramirez]] — CIA背景，关注AARO与情报界信息共享
 - [[UAP披露历史]] — AARO在政府透明度框架中的位置
+- [[UAPTF（UAP任务小组）]] — AARO的前身，2020-2022年官方UAP调查机构
+- [[Schumer修正案与UAP Disclosure Act（告密者保护立法）]] — 修正案将AARO设为唯一举报渠道，这一安排受到披露活动人士批评
+- [[Sentient（NRO AI情报过滤系统）]] — 对AARO数据完整性构成结构性限制的NRO AI过滤系统
 
 [Source: raw/2026年5月8日发布的首批UAP文件.md]
