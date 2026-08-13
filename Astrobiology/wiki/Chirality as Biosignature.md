@@ -81,3 +81,12 @@ Consistent L-excess detected across multiple carbonaceous meteorites from differ
 - [[False Negatives in Life Detection]] — impure homochirality can cause false negatives
 - [[Mirror Life]] — extreme case: life using opposite enantiomers throughout
 - [[Astrobiology]] — broader field context
+
+## 跨库链接
+
+### ↔ vault_genetic_genome
+- `vault_genetic_genome/wiki/Homochirality.md` — **双库独立确认**：两库均发现地球生命并非严格同手性（D-丝氨酸为哺乳动物NMDA受体必须辅激动剂；D-丙氨酸广泛存在于细菌细胞壁），共同推翻"绝对同手性=生命标志"的教科书命题，重新标定为"行星级手性过量（ee）"才是可靠指标
+- `vault_genetic_genome/wiki/Chirality as Biomarker.md` — 遗传学视角对手性生物标志物的独立推导，与本页形成互补：本页侧重陨石实证与探测方法论；genetic_genome 侧重地球生命内部的D-氨基酸分布证据
+
+### ↔ vault_UFO_Aliens
+- `vault_UFO_Aliens/wiki/EBO生物特征与嵌合基因组.md` — **可检验预测**：若EBO为真实工程生命体，Assembly Theory的MA指数（本库）提供了区分"被设计基因组"与"被进化基因组"的工具；EBO"近零非编码DNA"特征对应极高MA值，即强烈的"设计选择史"信号

@@ -69,3 +69,11 @@ Traditional biosignature searches look for *specific* molecules (amino acids, li
 - [[JWST]] — potential for atmospheric MA estimation via transmission spectroscopy
 
 [Source: raw/Investigating and Quantifying Molecular Complexity Using Assembly Theory and Spectroscopy.md]
+
+## 跨库链接
+
+### ↔ vault_UFO_Aliens
+- `vault_UFO_Aliens/wiki/EBO生物特征与嵌合基因组.md` — **可检验预测**：Assembly Theory 提供区分"被进化基因组"与"被设计基因组"的潜在工具。EBO 宣称的特征（近零非编码DNA、TPR绝对寻址、极简化染色体）若属实，对应的分子组装指数 MA 将远超任何已知自然进化产物，Assembly Theory 是目前唯一无需假设具体生化底物即可检验此宣称的框架
+
+### ↔ vault_genetic_genome
+- `vault_genetic_genome/wiki/Homochirality.md` — Assembly Theory（MA指数）与手性过量（ee值）是互补的独立生命检测轴：MA > 15 捕捉"选择历史复杂性"；ee > 0 捕捉"手性选择偏好"；两个指标均阳性的样本在生命假说下的后验概率远高于任一单独指标
