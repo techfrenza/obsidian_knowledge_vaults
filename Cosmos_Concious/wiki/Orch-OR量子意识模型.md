@@ -72,7 +72,9 @@ Orchestrated Objective Reduction，由Roger Penrose（物理学家）与Stuart H
 - [[整合信息理论IIT]] — 互补理论
 - [[生物计算主义]] — 相关的介质依赖论证
 - [[Strømme普遍意识基础场]] — 宇宙尺度的连接
+- [[嵌套时钟宇宙与几何音乐语言]] — Bandyopadhyay的微管时间晶体实验是Orch-OR的直接扩展
 - [[量子传感器神经成像]] — OPM 高分辨率量子传感器是未来体内验证 Orch-OR 微管相干的候选工具
+- [[意识连续性机制]] — Orch-OR 量子纠缠链作为 qualia 流帧间连续性的物理机制
 
 [Source: raw/Orch-OR量子意识模型.md]
 [Source: raw/I+C+S统一场框架下意识科学前沿的全面总结 5-10-2026.md]

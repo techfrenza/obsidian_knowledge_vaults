@@ -40,11 +40,20 @@ Andrew Gallimore 的框架将 DMT（二甲基色胺）定义为**"现实转换�
 - 持久转变需要通过冥想等长期内化，而非仅靠致幻剂的门。
 
 ## 关联概念
-
+- [[Andrew Gallimore与DMTX研究]]
+- [[致幻剂临床研究范式]] — 致幻剂整体研究框架，含DMT与裸盖菇素/LSD的比较分析
+- [[默认模式网络与自我消融]] — DMN抑制是DMT与所有致幻剂共同的神经机制
 - [[过滤器模型]]：DMT 是最直接的过滤器松动的药理证据
 - [[濒死体验NDE]]：机制与 NDE 高度类似，均为大脑过滤功能减弱
 - [[量子零点场]]：DMT 体验中接触的"场"可能对应量子零点场或阿卡西记录
 - [[阿卡西记录]]：DMT 实体互动作为接触宇宙信息库的可能途径
 - [[Orch-OR量子意识模型]]：量子意识机制可能解释 DMT 状态下的量子信息接入
+- [[冥想修行体系]]：Strassman发现禅宗冥想的Kensho（合一状态）与DMT的互动关系状态是两种不同的意识扩展模式——药理路径与训练路径通向不同的意识空间
+- [[灵能主权与2026标准模型]] — 2026标准模型将DMT视为接入高维NHI信息的"后台通行证"
 
 [Source: raw/From Grok and Gemini chats (2).md, raw/From Grok Chat session.md]
+[Source: raw/Psychedelics, Non-Local Consciousness, and the Quantum Frontiers of Brain Dynamics.md]
+[Source: raw/致幻剂、非局域意识与大脑动力学的量子前沿.md]
+
+## 相关链接
+- [[裸盖菇素神秘体验与宗教共同核心]] — 裸盖菇素与DMT同属经典迷幻剂，神秘体验报告高度重叠
