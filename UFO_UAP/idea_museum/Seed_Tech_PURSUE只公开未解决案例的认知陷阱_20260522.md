@@ -31,6 +31,6 @@ PURSUE Release 01（2026年5月8日）明确规定：**仅发布"unresolved"（�
 - [[PURSUE计划与首批UAP文件解密]] — 框架详情
 - [[UAP披露历史]] — 宏观透明度演变
 - [[AARO]] — 执行机构
-- [[David Grusch]] — 提出存在保密计划的内部人士
+- [[wiki/David Grusch]] — 提出存在保密计划的内部人士
 
 [Source: wiki/PURSUE计划与首批UAP文件解密.md]
