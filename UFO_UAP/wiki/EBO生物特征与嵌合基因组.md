@@ -54,3 +54,12 @@ category: theory
 - [[Gary Nolan]] — 尾状核研究与EBO脑部结节特征的现实对应
 
 [Source: raw/EBO生物特征与嵌合基因组研究报告.md]
+
+## 跨库链接
+
+### ↔ vault_genetic_genome
+- `vault_genetic_genome/wiki/Homochirality.md` — **手性签名检验**：EBO基因组宣称"近零非编码DNA"的工程整洁性，在 Assembly Theory 框架下意味着极高的分子组装指数（MA）；地球生命并非严格同手性（D-丝氨酸为NMDA受体必须物质）这一发现，意味着若EBO基因组属实，其手性特征无法以"非地球"为由单独证伪
+- `vault_genetic_genome/wiki/Ghost Lineage.md` — John Ramirez/CIA 宣称人类遗传标记见于NHI组织，若属实，需通过幽灵谱系框架（introgression/古DNA）而非标准系统发育方法来解读，因为幽灵谱系恰好是"有遗传痕迹但无实体记录的谱系"
+
+### ↔ vault_Astrobiology
+- `vault_Astrobiology/wiki/Assembly Theory.md` — EBO基因组的"工程整洁性"（极简化、近零非编码DNA、TPR绝对寻址）若属实，其分子组装指数 MA >> 15，强烈指向"选择历史"（设计/技术）而非偶然化学过程；Assembly Theory 提供了区分"被进化"与"被设计"基因组的潜在工具
