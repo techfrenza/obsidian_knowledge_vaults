@@ -78,6 +78,7 @@ Strømme Φ场对[[AI意识与生物壁垒]]问题的解答：硅基AI缺乏C场
 - [[量子生物学]] — 生物量子效应的实证基础
 - [[灵魂场与神化]] — EBO文明对基础意识场的平行描述
 - [[介质中心论]] — Strømme框架中介质作为场的物理锚定
+- [[意识连续性机制]] — Φ场局部激发态机制：库中最完整的跨介质 qualia 连续性理论
 
 [Source: raw/Universal Consciousness as Foundational Field.md]
 [Source: raw/I+C+S统一场框架下意识科学前沿的全面总结 5-10-2026.md]
