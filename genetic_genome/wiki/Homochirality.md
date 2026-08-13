@@ -48,3 +48,12 @@ Homochirality is one component of the chirality biomarker framework, but should 
 
 [Source: raw/Critical review of chirality indicators of extraterrestrial life.md]  
 [Source: raw/New Study Provides Novel Insights Into The Cosmic Evolution Of Amino Acids.md]
+
+## 跨库链接
+
+### ↔ vault_Astrobiology
+- `vault_Astrobiology/wiki/Chirality as Biosignature.md` — **双库独立确认**：本页（遗传学角度）与天体生物学库（陨石/系外行星角度）均指向同一结论：绝对同手性是过于严格的生命判据；行星级手性过量（ee）才是正确指标。两库独立到达同一修正，显著提升结论置信度
+- `vault_Astrobiology/wiki/Assembly Theory.md` — Assembly Theory（MA指数）提供手性之外的独立生命检测工具：MA > 15 的分子不能经由随机化学过程产生，与手性ee值互补，共同构成更鲁棒的生命探测框架
+
+### ↔ vault_UFO_Aliens
+- `vault_UFO_Aliens/wiki/EBO生物特征与嵌合基因组.md` — EBO基因组宣称"三回文重复（TPR）"绝对寻址结构，与本页记录的G-四链体（G-quadruplex）和NF1基因座回文结构形成类比：真实人类基因组中的功能性回文结构证明此类"工程性"序列特征在地球生命中确实存在，可作为评估EBO宣称合理性的参照基线

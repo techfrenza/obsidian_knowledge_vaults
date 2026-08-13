@@ -46,3 +46,12 @@ Ghost lineages also distort expected branch lengths in gene trees, potentially *
 [Source: raw/Ghost lineages Genetic legacies of extinct ancestors – HudsonAlpha Institute for Biotechnology.md]  
 [Source: raw/Ghost Lineages Highly Influence the Interpretation of Introgression Tests.md]
 [Source: raw/Ghost lineages can invalidate or even reverse findings regarding gene flow.md]
+
+## 跨库链接
+
+### ↔ vault_UFO_Aliens
+- `vault_UFO_Aliens/wiki/EBO生物特征与嵌合基因组.md` — **方法论桥接**：John Ramirez/CIA 宣称人类遗传标记见于NHI组织。若属实，幽灵谱系框架是解读此宣称的正确工具——NHI可能代表一个"幽灵谱系"：有遗传痕迹（与人类基因组重叠）但无已知化石/序列记录的演化支系。标准系统发育方法会将这种重叠误判为近期水平基因转移
+- `vault_UFO_Aliens/wiki/NHI（非人类智能）.md` — 未来人类时间旅行假说（Mike Masters）在遗传学上等价于"前向幽灵谱系"——未来演化支系对过去基因组的逆向影响，逻辑结构与幽灵谱系对现代基因组的影响完全对称
+
+### ↔ vault_Buddhism
+- `vault_Buddhism/wiki/业力.md` — **信息持续性的跨框架类比**：幽灵谱系（extinct species' DNA surviving in living organisms through introgression）与业力种子（past actions' informational residue surviving in ālayavijñāna across lifetimes）描述相同的深层结构——**信息在原始载体消亡后以转化形式持续存在**。前者是物理DNA层面，后者是意识信息层面
