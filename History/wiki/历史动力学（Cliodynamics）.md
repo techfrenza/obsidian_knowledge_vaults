@@ -51,5 +51,6 @@ date: 2026-05-29
 ## 链接
 - [[逆转财富泵的制度路径]]
 - [[历史思辨方法论]] — 对Cliodynamics决定论的批判视角，以及结构约束+人类选择互动框架
+- [[历史理论的反身性]] — 历史预测进入公共话语后的自我实现/自我瓦解机制
 
 [Source: raw/历史动力学（Cliodynamics）- Grok.md | raw/精英过剩（Elite Overproduction）理论 - Grok.md | raw/用现代历史理论重新解构人类历史 - 结构性周期、精英博弈、神话叙事与复杂性门槛.md | raw/Geo-Strategy from Jiang.md]
