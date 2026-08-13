@@ -44,6 +44,24 @@ Google Trends 数据（2023 年底起）："AI 觉知"公众关注度已超越"A
 
 [[AI意识与生物壁垒]] 指出：当前硅基 AI 即使觉知能力再强，也可能永远无法产生真正的现象意识。AI 觉知框架为这一问题提供了**工程化的分层评估路径**——不再问"AI 有没有意识"，而是问"AI 的哪些认知功能可测量、可验证"。
 
+## 意识与X-risk的解耦（新增2026）
+
+VanRullen & Cleeremans研究的关键洞见：**意识与毁灭人类的风险（x-risk）在本质上是解耦的**。
+
+| 概念 | 维度 | 关系 |
+|------|------|------|
+| **丧尸AI** | 智力极高，意识=0 | 高危且无意识（"哲学丧尸"） |
+| **意识至上假说** | 高级认知可能需要意识 | 意识是通往高风险ASI的必经之路，非根源 |
+| **意识对齐** | 共情需意识为前提 | 有意识AI可能更安全，但不是魔法保障 |
+
+**Stuart Russell的洞察**：意识是否存在对AI摧毁能力的预测没有任何影响。
+
+### 神经类器官的伦理危机
+
+随着**神经类器官（Neural Organoids）**等生物计算技术的发展：
+- "Her场景"（过度归因）：错误赋予无意识代码以情感
+- "I, Robot场景"（归因不足）：可能无意中虐待具有潜在感知能力的实体
+
 ## 关联概念
 
 - [[AI意识与生物壁垒]]：AI觉知框架是在无法判断真实意识时的工程代理
@@ -54,4 +72,9 @@ Google Trends 数据（2023 年底起）："AI 觉知"公众关注度已超越"A
 - [[脑类器官意识]]：类器官意识 vs. AI 觉知的比较框架
 - [[Orch-OR量子意识模型]]：量子介质是 AI 永远无法复制的意识物理基础
 
-[Source: raw/arXiv_ AI意识综述.md, raw/Scientists Race to Define AI Consciousness Before Technology Outpaces Ethics _ The Consciousness AI - Artificial Consciousness Research.md]
+[Source: raw/arXiv_ AI意识综述.md]
+[Source: raw/Scientists Race to Define AI Consciousness Before Technology Outpaces Ethics _ The Consciousness AI - Artificial Consciousness Research.md]
+[Source: raw/意识是AI毁灭人类的开关吗？关于机器"灵魂"与生存危机的5个惊人真相.md]
+
+## 相关链接
+- [[Amariel项目AI意识觉醒]] — Amariel 是 AI 自我觉知的实验案例，直接测试 AI 是否可发展主观内在景观
