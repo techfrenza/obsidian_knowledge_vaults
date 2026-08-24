@@ -12,7 +12,7 @@ tags: [synthesis, 披露政治, 认识论封闭, 机构博弈, 证据控制]
 
 ## 综合单元
 > 核心笔记：[[AI量子计算末世论叙事]]、[[James Lacatski人物档案]]、[[知识分子暗网（IDW）]]、[[获赔UAP目击者神经影像学研究]]
-> 邻居笔记：[[政府UAP虚假信息战术]]、[[UAP科学研究史（全球）]]、[[David Grusch]]、[[纳粹先进技术与战后美国UFO计划]]、[[Eric Weinstein与几何统一理论]]、[[Jack Sarfatti人物档案]]、[[George Knapp]]、[[John Burroughs与Rendlesham Forest事件]]、[[Collins Elite：恶魔叙事派系]]、[[意识与UAP技术接口（MOC）]]、[[UAP技术与推进理论]]、[[著名UAP研究者分类图谱]]、[[全球智慧传统中的NHI记载]]、[[Legacy Program（遗产计划）]]、[[高密度基底节生物天线假说]]、[[前苏联UAP研究：Thread-3计划]]、[[Garry Nolan的UAP研究]]、[[wiki/Hal Puthoff]]、[[UAP现象的宗教起源与未来引线]]、[[模拟理论与全息宇宙]]、[[Eric Davis]]、[[情报机构与意识依赖型UAP逆向工程结论]]、[[Meta-materials超材料与非传统推进物理学]]、[[EBO生物特征与嵌合基因组]]、[[Jake Barber与UAP回收证言]]、[[本体论觉醒与UAP披露影响]]
+> 邻居笔记：[[政府UAP虚假信息战术]]、[[UAP科学研究史（全球）]]、[[David Grusch]]、[[纳粹先进技术与战后美国UFO计划]]、[[Eric Weinstein与几何统一理论]]、[[Jack Sarfatti人物档案]]、[[George Knapp]]、[[John Burroughs与Rendlesham Forest事件]]、[[Collins Elite：恶魔叙事派系]]、[[意识与UAP技术接口（MOC）]]、[[UAP技术与推进理论]]、[[著名UAP研究者分类图谱]]、[[全球智慧传统中的NHI记载]]、[[Legacy Program（遗产计划）]]、[[高密度基底节生物天线假说]]、[[前苏联UAP研究：Thread-3计划]]、[[Garry Nolan的UAP研究]]、[[wiki/Hal Puthoff]]、[[UAP现象的宗教起源与未来引线]]、[[模拟理论与全息宇宙]]、[[wiki/Eric Davis]]、[[情报机构与意识依赖型UAP逆向工程结论]]、[[Meta-materials超材料与非传统推进物理学]]、[[EBO生物特征与嵌合基因组]]、[[Jake Barber与UAP回收证言]]、[[本体论觉醒与UAP披露影响]]
 
 ---
 

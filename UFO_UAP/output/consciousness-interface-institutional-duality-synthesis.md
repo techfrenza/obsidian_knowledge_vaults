@@ -6,7 +6,7 @@ source_notes:
   - "[[EBE分类体系（外星生物实体第一类与第二类）]]"
   - "[[EBO信仰：灵魂场与神化概念]]"
   - "[[EBO生物特征与嵌合基因组]]"
-  - "[[Eric Davis]]"
+  - "[[wiki/Eric Davis]]"
   - "[[Eric Weinstein与几何统一理论]]"
   - "[[Gary Nolan]]"
   - "[[Gateway Process：意识同步与全息宇宙]]"
@@ -21,14 +21,19 @@ source_notes:
   - "[[Ingo Swann人物档案]]"
   - "[[J2（James Hodgkins）人物档案]]"
   - "[[Jack Parsons人物档案]]"
-tags: [synthesis, 意识科学, 情报研究, UAP技术, 宗教神话]
+tags:
+  - synthesis
+  - 意识科学
+  - 情报研究
+  - UAP技术
+  - 宗教神话
 ---
 
 # 意识界面与机构双轨制 — 跨笔记综合
 
 ## 综合单元
 
-> 核心笔记：[[Deborah Jordan-Kauble（黛博拉·乔丹-考布尔）]]、[[Diana Walsh Pasulka]]、[[EBE分类体系（外星生物实体第一类与第二类）]]、[[EBO信仰：灵魂场与神化概念]]、[[EBO生物特征与嵌合基因组]]、[[Eric Davis]]、[[Eric Weinstein与几何统一理论]]、[[Gary Nolan]]、[[Gateway Process：意识同步与全息宇宙]]、[[George Knapp]]、[[Gerald Haines]]、[[Go Fast视频与Gimbal视频（海军UAP传感器记录）]]、[[Grusch相关传闻与古代神话关联]]、[[Haim Eshed人物档案]]、[[Hal Puthoff]]、[[Hurtak与以诺之钥（Book of Enoch Key）]]、[[Immaculate Constellation（神圣星座计划）]]、[[Ingo Swann人物档案]]、[[J2（James Hodgkins）人物档案]]、[[Jack Parsons人物档案]]
+> 核心笔记：[[Deborah Jordan-Kauble（黛博拉·乔丹-考布尔）]]、[[Diana Walsh Pasulka]]、[[EBE分类体系（外星生物实体第一类与第二类）]]、[[EBO信仰：灵魂场与神化概念]]、[[EBO生物特征与嵌合基因组]]、[[wiki/Eric Davis]]、[[Eric Weinstein与几何统一理论]]、[[Gary Nolan]]、[[Gateway Process：意识同步与全息宇宙]]、[[George Knapp]]、[[Gerald Haines]]、[[Go Fast视频与Gimbal视频（海军UAP传感器记录）]]、[[Grusch相关传闻与古代神话关联]]、[[Haim Eshed人物档案]]、[[Hal Puthoff]]、[[Hurtak与以诺之钥（Book of Enoch Key）]]、[[Immaculate Constellation（神圣星座计划）]]、[[Ingo Swann人物档案]]、[[J2（James Hodgkins）人物档案]]、[[Jack Parsons人物档案]]
 >
 > 邻居笔记：[[NHI（非人类智能）]]、[[灵能（Psionics）与UAP意识接口]]、[[意识-大脑过滤器假说]]、[[Stargate Project（星门计划）]]、[[UAP披露历史]]、[[UAP技术与推进理论]]、[[UAP现象的宗教起源与未来引线]]、[[UAP科学研究史（全球）]]、[[著名UAP研究者分类图谱]]、[[Meta-materials超材料与非传统推进物理学]]、[[Legacy Program（遗产计划）]]、[[David Grusch]]、[[Budd Hopkins]]、[[EBO信仰：灵魂场与神化概念]]、[[区分独立进化外星生物与生物机器人的方法]]、[[机构关联时间线（MK-ULTRA到Stargate到P3）]]、[[Timothy Taylor（Tyler D）人物档案]]、[[政府UAP虚假信息战术]]、[[灵能辅助技术（Psionic Assists）]]、[[CE-5协议与意识接触]]、[[Ryan Graves]]、[[Mick West]]、[[AARO]]、[[UAP秘密设施与代号计划综合索引]]、[[Sentient（NRO AI情报过滤系统）]]、[[MJ-12特种作战手册（SOM-1）]]、[[Jack Sarfatti人物档案]]、[[Collins Elite：恶魔叙事派系]]
 
@@ -55,7 +60,7 @@ tags: [synthesis, 意识科学, 情报研究, UAP技术, 宗教神话]
 | UAP接触是真实的物理事件，可留下可测量的神经与物理印记 | [[Gary Nolan]]（基底核密度研究）、[[Deborah Jordan-Kauble（黛博拉·乔丹-考布尔）]]（院子印记、电气损坏、目击者证词）[A/C] | UAP体验主要是意识现象，其"物理性"是意识现实化的产物而非独立客观证据 | [[EBO信仰：灵魂场与神化概念]]（灵魂场框架）、[[Gateway Process：意识同步与全息宇宙]]（全息宇宙论）[D/E] |
 | NHI是具有生物基质的工程制造实体（可解剖的生物无人机） | [[EBE分类体系（外星生物实体第一类与第二类）]]（Type I/II形态学）、[[EBO生物特征与嵌合基因组]]（16条环状染色体、无生殖器官）[C/E] | NHI的本质是意识存在或跨维度实体，生物形态是其选择性投射而非固有本质 | [[Hurtak与以诺之钥（Book of Enoch Key）]]（麦特隆天使长）、[[Grusch相关传闻与古代神话关联]]（Divine Council）[D/E] |
 | Go Fast/Gimbal视频证明了超出已知物理的飞行器 | [[Go Fast视频与Gimbal视频（海军UAP传感器记录）]]中Ryan Graves、Luis Elizondo立场；DoD 2019年机构认证 [B/C] | Go Fast/Gimbal可用FLIR传感器运动学效应完全解释，无需引入非常规飞行器 | [[Go Fast视频与Gimbal视频（海军UAP传感器记录）]]中Mick West的计算模型 [B/C]；最强批评：模型虽获技术认可，但被现场飞行员证人驳斥 |
-| 机构信息管控的目的是隐藏技术逆向工程计划（飞行器与推进） | [[Immaculate Constellation（神圣星座计划）]]（AI数据隔离）、[[Eric Davis]]（Wilson-Davis逆向工程证词）[B/C] | 机构信息管控的核心目的是压制遥视/灵能能力（意识可发现外星人存在），而非单纯技术保密 | [[Ingo Swann人物档案]]《Penetration》主张：Stargate终止 = 能力验证后主动压制 [C] |
+| 机构信息管控的目的是隐藏技术逆向工程计划（飞行器与推进） | [[Immaculate Constellation（神圣星座计划）]]（AI数据隔离）、[[wiki/Eric Davis]]（Wilson-Davis逆向工程证词）[B/C] | 机构信息管控的核心目的是压制遥视/灵能能力（意识可发现外星人存在），而非单纯技术保密 | [[Ingo Swann人物档案]]《Penetration》主张：Stargate终止 = 能力验证后主动压制 [C] |
 | UAP现象具有可重复性、可研究的科学结构 | [[Go Fast视频与Gimbal视频（海军UAP传感器记录）]]、[[Garry Nolan的UAP研究]]、[[Ingo Swann人物档案]]木星环预测 [A/C] | UAP信仰体系的社会功能等同于宗教，与其物理真相的存在与否无关 | [[Diana Walsh Pasulka]]（UAP作为物质宗教论）[B] |
 
 ---

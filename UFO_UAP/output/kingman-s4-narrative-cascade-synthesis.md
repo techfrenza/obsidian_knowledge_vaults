@@ -12,7 +12,7 @@ tags: [synthesis, 情报研究, 披露政治, 叙事演化, 证据分析]
 
 ## 综合单元
 > 核心笔记：[[1953年金曼UFO坠毁事件]]、[[Area S4（Site-4）]]、[[Dan Burisch人物档案]]、[[公民披露听证会（Citizen Hearing on Disclosure）]]
-> 邻居笔记：[[Legacy Program（遗产计划）]]、[[MJ-12特种作战手册（SOM-1）]]、[[Bob Lazar与S4飞碟逆向工程]]、[[Mike Masters与未来人类时间旅行假说]]、[[Roswell事件与Ramey Memo]]、[[UAP披露历史]]、[[政府UAP虚假信息战术]]、[[情报机构与意识依赖型UAP逆向工程结论]]、[[UAP技术与推进理论]]、[[维度间假说（IDH）]]、[[Thomas Townsend Brown与反重力研究网络]]、[[Richard Dolan]]、[[Meta-materials超材料与非传统推进物理学]]
+> 邻居笔记：[[Legacy Program（遗产计划）]]、[[MJ-12特种作战手册（SOM-1）]]、[[Bob Lazar与S4飞碟逆向工程]]、[[Mike Masters与未来人类时间旅行假说]]、[[Roswell事件与Ramey Memo]]、[[UAP披露历史]]、[[政府UAP虚假信息战术]]、[[情报机构与意识依赖型UAP逆向工程结论]]、[[UAP技术与推进理论]]、[[维度间假说（IDH）]]、[[Thomas Townsend Brown与反重力研究网络]]、[[wiki/Richard Dolan]]、[[Meta-materials超材料与非传统推进物理学]]
 
 ## 一致主线
 
