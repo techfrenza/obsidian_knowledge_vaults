@@ -62,9 +62,11 @@ Gimbal视频是研究界"分析派"与"怀疑派"之间最具代表性的分析�
 - [[Ryan Graves]] — Gimbal/Go Fast时代海军飞行员，现为AARO顾问
 - [[Mick West]] — Go Fast/Gimbal最系统性的物理怀疑论分析者
 - [[AARO]] — 目前持续评估这批传感器记录的政府机构
+- [[阿富汗异常现象（Afghanistan Anomalous Encounters）]] — 平行的精英军事目击传感器数据
 
 ## 矛盾与争议
 
 **核心张力**：传感器视频提供了机构认证的"真实性"，但传感器物理学本身的复杂性使得"目标行为异常"与"传感器视觉效应"两种解读在现有数据下均无法决定性排除。认证真实性 ≠ 确认非常规飞行器——这一认识论区分在公众讨论中普遍缺失。
 
 [Source: raw/Takeaways 2.md; raw/All Topics from NotebookLM.md]
+[Source: raw/Pentagon UFO videos.md]

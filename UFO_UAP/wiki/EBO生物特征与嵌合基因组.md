@@ -52,6 +52,7 @@ category: theory
 - [[灵能（Psionics）与UAP意识接口]] — 脑部结节与意识接口的延伸
 - [[NHI（非人类智能）]] — 上级分类节点
 - [[Gary Nolan]] — 尾状核研究与EBO脑部结节特征的现实对应
+- [[外星人-人类混血计划（Alien-Human Hybrid Program）]] — 嵌合基因组与人类基因完全兼容，是杂交计划生物学可行性的核心证据
 
 [Source: raw/EBO生物特征与嵌合基因组研究报告.md]
 

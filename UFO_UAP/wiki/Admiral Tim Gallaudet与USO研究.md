@@ -9,7 +9,16 @@ date: 2026-05-10
 
 # Admiral Tim Gallaudet与USO研究
 
-美国海军退休少将提姆·加劳德特（Tim Gallaudet），前海洋大气局（NOAA）代理局长，是UAP/USO议题中少见的具备官方海洋科学背景的公开倡导者。
+美国海军退休少将提姆·加劳德特（Timothy Cole Gallaudet），海洋学家，前NOAA代理局长（Under Secretary of Commerce for Oceans and Atmosphere代理，特朗普政府时期），是UAP/USO议题中少见的具备官方海洋科学背景的公开倡导者。
+
+## 官方履历
+
+| 项目 | 内容 |
+|------|------|
+| 海军职业 | 美国海军少将（退役），海洋学家，曾任美国海军海洋学家兼气象学家 |
+| 政府职位 | NOAA代理局长（商务部海洋与大气署代理副部长），特朗普政府任命 |
+| 学术背景 | 海洋学博士，专注深海与大气研究 |
+| UAP转型 | 退役后公开倡导UAP/USO研究，参与Sol Foundation等学术平台 |
 
 ## 核心论点
 
@@ -55,3 +64,4 @@ date: 2026-05-10
 - [[核武器设施与UAP干预]]
 
 [Source: raw/Admiral Tim Gallaudet 深海迷踪与全域异常现象探秘.md]
+[Source: raw/Timothy Gallaudet.md]

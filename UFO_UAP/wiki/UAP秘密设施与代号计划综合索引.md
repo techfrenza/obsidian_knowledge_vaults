@@ -102,5 +102,6 @@ stub: false
 - [[Zodiac计划（Project Zodiac）]] — MJ-12伞型计划及Project Aquarius/Looking Glass/Lotus子层级
 - [[赖特-帕特森空军基地（Wright-Patterson AFB）]] — 18号机库/蓝实验室，坠毁回收链条的核心节点
 - [[Robertson Panel（罗伯逊小组）]] — 1953年CIA制度化虚假信息战术的政策起点
+- [[对称保密困境（Symmetric Secrecy Dilemma）]] — 多国设施与计划保密的博弈论框架
 
 [Source: raw/综合 UAP 机密档案：设施、代号计划、吹哨人、生物技术清单与反情报规程.md]

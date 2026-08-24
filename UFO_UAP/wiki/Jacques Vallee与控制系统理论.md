@@ -47,5 +47,6 @@ Vallée认为UAP现象像一个**智能的赛博内蒂克控制系统**（cybern
 - [[全球智慧传统中的NHI记载]]
 - [[意识-大脑过滤器假说]]
 - [[灵能（Psionics）与UAP意识接口]]
+- [[John Keel与飞蛾人现象（Mothman Ultraterrestrials）]] — 独立收敛到类似框架的平行理论家
 
 [Source: raw/Jacques Vallée 与 UFO"控制系统"理论.md]

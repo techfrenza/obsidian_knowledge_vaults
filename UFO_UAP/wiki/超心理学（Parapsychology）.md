@@ -52,6 +52,7 @@ category: concept
 - [[Patrick Jackson球体网络理论]]：球体网络解释传统超自然现象（喧闹鬼等）的替代框架
 - [[EBO信仰：灵魂场与神化概念]]：意识涌现理论与超心理学研究对象的深层哲学交叉
 - [[克里斯·布莱索（Chris Bledsoe）接触案例]]：接触者现象与NDE/OBE的方法论交叉
+- [[凯恩协议与特雷西·特怀曼案（Kain Protocol Tracy Twyman）]] — 灵性接触与定向骚扰的交叉案例
 
 ## 矛盾与争议
 

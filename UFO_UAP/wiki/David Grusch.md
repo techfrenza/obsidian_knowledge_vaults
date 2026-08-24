@@ -46,4 +46,36 @@ category: person
 ### Sol Foundation角色
 - 与Garry Nolan和Peter Skafish共同创立[[Sol Foundation：UAP学术研究平台|Sol Foundation]]，旨在将UAP研究专业化和学术化
 
-[Source: raw/在生物学层面区分"独立进化的外星生物"与"通过人体基因工程制造的生物机器人"的方法.md, raw/David Grusch.md]
+## 对Grusch的反弹与打压叙事
+
+### 职业施压阶段 [C级，Grusch本人陈述]
+
+Grusch描述的打压时间线：
+
+| 阶段 | 事件 |
+|------|------|
+| 早期警告 | 收到非正式警告，被要求停止追查特定类型的情报问题 |
+| 许可威胁 | 被明确告知安全许可（职业命脉）将被吊销 |
+| 声誉攻击 | "耳语运动"开始：同事被告知他"不稳定""阴谋论者""不可靠" |
+| 正式投诉 | 2022年向情报界内部监察长（ICIG）提交吹哨人投诉；ICIG裁定"可信且紧迫" |
+| 保护失效 | 裁定触发的保护措施未阻止打压继续 |
+| 个人压力 | 据Grusch称，打压延伸到他的个人生活，对他家人施压（具体细节未公开披露） |
+
+### 打压的制度意义
+
+Grusch案是[[UAP守门人体制（UAP Gatekeepers Architecture）]]中ODNI反情报处理吹哨人流程的实证案例：
+- 投诉裁定为可信→应触发保护→实际上未提供实质保护
+- 说明监察机制本身可能已被渗透或无法对抗深层SAP结构
+- "国家安全"标签可以合法地阻止即便是有法律背书的披露行动
+
+### 认识论局限
+
+- Grusch的打压叙事仅有他本人和律师的陈述，无独立核实 [C级]
+- 他承认大部分指控是基于其他内部人士的汇报，非直接第一手知识
+- 然而，ICIG的"可信且紧迫"认定本身是B级证据，表明独立机构评估了其声明的合理性
+
+[Source: raw/David Grusch.md]
+[Source: raw/The Grusch Backlash A Whistleblower's Alleged Price for Asking About UFOs.md]
+[Source: raw/David Grusch UFO whistleblower claims.md]
+
+**关键关联**：[[Eric Davis人物档案]] — 2020年3月为Grusch提供两天机密简报，引导其发现坠毁回收项目证词路径，是Grusch证词链条的起点。

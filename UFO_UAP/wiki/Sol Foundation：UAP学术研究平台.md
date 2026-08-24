@@ -73,5 +73,7 @@ Sol Foundation代表了UAP研究"去污名化"进程的加速（[[Condon Committ
 - [[UAP披露历史]]
 - [[Condon Committee（科恩登委员会）]] — Sol Foundation的成立正是对50年科学禁忌的系统性回应
 - [[五项可观测指标（Five Observables）]] — Sol Foundation采用该框架作为案例筛选标准
+- [[Eric Davis人物档案]] — Sol Foundation联合创始人（与Garry Nolan、Peter Skafish共同创立）
+- [[Sol Foundation：UAP研究的科学前沿]] — 同组织的深度技术研究专条
 
 [Source: raw/The Sol Foundation：UAP研究的科学前沿.md]

@@ -9,7 +9,7 @@ date: 2026-05-10
 
 # Bob Lazar与S4飞碟逆向工程
 
-鲍勃·拉扎尔（Robert Scott Lazar，生于1959年）是UAP领域最具争议性的证人之一，1989年声称在Area 51南约15英里的S4设施参与外星飞船逆向工程工作。
+鲍勃·拉扎尔（Robert Scott Lazar，1959年1月26日生于佛罗里达州Coral Gables，长于纽约长岛Westbury）是UAP领域最具争议性的证人之一，1989年声称在Area 51南约15英里的S4设施参与外星飞船逆向工程工作。最初以匿名"Dennis"身份接受KLAS-TV记者George Knapp采访。现经营United Nuclear Scientific Equipment and Supplies（密歇根州，合法放射性材料与化学品供应商）。
 
 ## 核心主张
 
@@ -44,7 +44,10 @@ date: 2026-05-10
 
 ## 矛盾与争议
 
-- **学历验证失败**：MIT和Caltech均无其入学记录；FBI调查（Mike Thigpen案）未能证实安全许可或工作经历
+- **学历验证失败**：MIT和Caltech均无其入学记录；FBI调查（Mike Thigpen案）未能证实安全许可或工作经历 [E级：Lazar声称政府删除记录，无法证伪]
+- **Kirk-Mayer就业记录**：Los Alamos国家实验室电话名录确认Lazar曾为分包商Kirk-Mayer的技术员（非高级物理学家或直接雇员），是迄今唯一可独立查证的就业文件 [B级：文件可查]
+- **元素115现实状况**：Moscovium（第115号元素）2003年合成确认存在，表面支持Lazar，但现有合成同位素均极不稳定（毫秒级半衰期），完全不具备Lazar描述的引力波或推进属性；"稳定岛"同位素假说尚无实验证实 [A级对立证据]
+- **法律记录**：1990年因协助经营卖淫场所定罪；2006年因向FBI下属供应违禁化学品定罪，影响可信度评估
 - **受控泄露假说**：部分研究者认为Lazar的故事是CIA蓄意策划的泄露（90%真实，10%虚假），用于招募或向对手发出信号（参见[[政府UAP虚假信息战术]]）
 - **Stan Friedman批评**：著名UFO研究者斯坦·弗里德曼对Lazar持强烈怀疑态度
 
@@ -63,3 +66,4 @@ date: 2026-05-10
 - [[1953年金曼UFO坠毁事件]]
 
 [Source: raw/Bob Lazar on Extraterrestrial Craft； S4外星飞船.md]
+[Source: raw/Bob Lazar - Grokipedia.md]

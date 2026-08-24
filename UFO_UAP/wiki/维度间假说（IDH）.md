@@ -67,5 +67,6 @@ Vallée是IDH最重要的科学倡导者，其核心主张：
 - [[Mike Masters与未来人类时间旅行假说]] — 时间旅行假说与IDH的对比
 - [[意识-大脑过滤器假说]] — 意识维度穿越的神经生物学基础
 - [[John Burroughs与Rendlesham Forest事件]] — 物理证据与IDH的张力
+- [[CERN 2030与实体门户假说]] — 维度穿越的粒子物理实验相关性
 
 [Source: raw/Interdimensional Hypothesis.md]

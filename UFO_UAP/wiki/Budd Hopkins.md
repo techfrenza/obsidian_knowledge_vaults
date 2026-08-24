@@ -48,5 +48,6 @@ stub: false
 - [[David Jacobs]] — 继承并发展其研究框架的历史学家
 - [[外星植入物研究（Leir-Colbern）]] — 物理证据关联
 - [[著名UAP研究者分类图谱]] — 第6类绑架研究者
+- [[经历者（Experiencers）群体研究]] — Hopkins的数百催眠案例是经历者群体研究的核心数据来源之一
 
 [Source: raw/著名 UAP UFO 研究者列表.md]

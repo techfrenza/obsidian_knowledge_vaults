@@ -111,3 +111,4 @@ date: 2026-05-22
 [Source: raw/Garry Nolan 教授：跨界科学与不明异常现象研究.md, raw/UAP子主题.md, raw/人类意识与UAP飞行系统的交互.md, raw/UAP 接触者大脑结构与遗传基因研究深度报告.md]
 
 - [[技术跃升与精神停滞：克林贡陷阱框架]] — Nolan「愤怒猴子」核心论据的框架化应用
+- [[经历者（Experiencers）群体研究]] — Nolan对数百名经历者进行MRI扫描的神经生物学发现汇总

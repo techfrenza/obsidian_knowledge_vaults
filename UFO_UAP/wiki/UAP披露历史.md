@@ -43,5 +43,10 @@ category: history
 - [[Varginha事件（1996年巴西活体外星人捕获）]] — 1996年巴西军方捕获活体EBE的关键事件
 - [[Schumer修正案与UAP Disclosure Act（告密者保护立法）]] — 2024年NDAA中最重要的披露立法推进
 - [[中美俄逆向工程竞赛框架（三国博弈与灾难性披露风险）]] — 三国博弈如何塑造披露政治的战略逻辑
+- [[灾难性披露（Catastrophic Disclosure）]] — 非受控披露的定义、社会冲击预测与各方解读
+- [[凤凰城灯光事件（Phoenix Lights 1997）]] — 1997年现代规模最大的群体目击事件，披露历史关键案例
+- [[John Greenewald Jr.与The Black Vault]] — FOIA文件主义方法论；解密文件民间档案库建设者
+- [[Leslie Kean]] — 调查记者，2017年纽约时报AATIP报道关键人物
+- [[Richard Dolan]] — 历史学家，《UFOs and the National Security State》作者
 
 [Source: raw/2026年5月8日发布的首批UAP文件.md, raw/John Ramirez转述Haines的表达.md]

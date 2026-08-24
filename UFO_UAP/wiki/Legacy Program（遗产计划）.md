@@ -77,9 +77,17 @@ date: 2026-05-10
 - [[Area S4（Site-4）]] — 遗产计划核心逆向工程设施
 - [[Dan Burisch人物档案]] — MJ-12成员，S4 Project Lotus执行者
 - [[1953年金曼UFO坠毁事件]] — 遗产计划回收节点之一，J-Rod起源
+- [[Project Aquarius（宝瓶座计划）]] — MJ-12旗下总括性管理计划，统筹逆向工程与EBO外交研究
 - [[公民披露听证会（Citizen Hearing on Disclosure）]] — Wolff证词揭示艾森豪威尔与MJ-12的权力博弈
 - [[Immaculate Constellation（神圣星座计划）]] — 遗产计划框架内的uSAP，负责全球UAP IMINT收集
 - [[Zodiac计划（Project Zodiac）]] — 与遗产计划并行的MJ-12伞型计划及其子项目层级
 - [[赖特-帕特森空军基地（Wright-Patterson AFB）]] — 遗产计划初始阶段的核心存储与分析设施
+
+- [[UAP守门人体制（UAP Gatekeepers Architecture）]] — 保护遗产计划不被访问的三层结构框架
+- [[Glenn Gaffney与Project Rubik's Cube]] — CIA S&T执行的信息碎片化机制
+- [[Clapper-O'Sullivan遗产计划指控（2026年Liberation Times报告）]] — 奥巴马时期ODNI层级的主动射击/回收指控
+- [[Trump UAP解密声明（2026）]] — 试图穿透遗产计划屏障的最新政治行动
+- [[Eric Davis人物档案]] — Wilson-Davis备忘录作者，遗产计划调查关键人物
+- [[Wilson-Davis备忘录与私营承包商UAP垄断]] — 威尔逊揭示的私营承包商持有飞行器与遗产计划权力结构
 
 [Source: raw/Legacy Program.md, raw/David Grusch.md, raw/Takeaways 1.md, raw/James Lacatski.md]

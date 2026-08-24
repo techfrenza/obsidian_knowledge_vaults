@@ -43,7 +43,7 @@ Knapp以新闻报道标准（可核实来源、多方核实）处理UAP议题，
 - [[Bob Lazar与S4飞碟逆向工程]] — 核心报道对象
 - [[UAP披露历史]] — 披露背景
 - [[Legacy Program（遗产计划）]] — 黑色项目保密架构
-- [[Leslie Kean]] — 同类调查记者
+- [[wiki/Leslie Kean]] — 同类调查记者
 - [[Ross Coulthart]] — 同类调查记者
 - [[著名UAP研究者分类图谱]] — 第5类调查记者
 - [[James Lacatski人物档案]] — AAWSAP项目合著者

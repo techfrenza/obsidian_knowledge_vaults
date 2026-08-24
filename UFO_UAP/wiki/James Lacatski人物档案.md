@@ -68,7 +68,7 @@ AAWSAP未真正终止，而是尝试转型为国土安全部（DHS）**Kona Blue
 - [[George Knapp]] — 合著者，Skinwalker Ranch调查媒体报道人
 - [[David Grusch]] — 同期披露者，Lacatski曾质疑其国会证词可靠性
 - [[Jake Barber与UAP回收证言]] — 同属逆向工程环节的证人
-- [[Eric Davis]] — AAWSAP参与者，共同推动DIA报告
+- [[wiki/Eric Davis]] — AAWSAP参与者，共同推动DIA报告
 - [[wiki/Hal Puthoff]] — AAWSAP顾问，揭示遗产计划官僚阻止AAWSAP机制
 - [[前苏联UAP研究：Thread-3计划]] — AAWSAP研究了苏联Thread-3文件，比较情报视角
 - [[UAP科学研究史（全球）]] — AAWSAP在美国政府UAP研究历史中的定位

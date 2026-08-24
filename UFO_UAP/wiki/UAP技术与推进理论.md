@@ -66,5 +66,6 @@ UAP推进与材料技术的跨领域研究框架，综合物理学理论、专�
 - [[Bob Lazar与S4飞碟逆向工程]]
 - [[Meta-materials超材料与非传统推进物理学]]
 - [[纳粹先进技术与战后美国UFO计划]]
+- [[量子生物学与意识耦合（UAP推进的物理基础）]] — 意识驱动推进的量子物理基础
 
 [Source: raw/UAP子主题.md, raw/The New Science of Unidentified Aerospace-Undersea Phenomena (UAP).md]

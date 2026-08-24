@@ -80,3 +80,7 @@ Grusch的证词直接触发了[[Schumer修正案与UAP Disclosure Act（告密�
 **支持系统性规避的最强论据**：若是常规惯例，为何多名具有高安全许可的官员（包括Grusch的上级主管）在核实相关项目时遭遇系统性障碍和报复行为？常规商业保密不解释对内部人员的人身威胁。
 
 [Source: raw/Misc.md; raw/Takeaways 1.md]
+
+## 相关链接补充
+
+- [[John Greenewald Jr.与The Black Vault]] — The Black Vault FOIA申请揭示的承包商规避模式是本条目的核心实证基础之一

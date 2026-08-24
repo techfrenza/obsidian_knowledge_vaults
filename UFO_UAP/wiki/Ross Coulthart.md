@@ -37,7 +37,7 @@ stub: false
 
 ## 认识论立场
 
-与[[Leslie Kean]]相比，Coulthart更倾向于接受内部人士证词作为一手证据，批评主流媒体对UAP的系统性回避。
+与[[wiki/Leslie Kean]]相比，Coulthart更倾向于接受内部人士证词作为一手证据，批评主流媒体对UAP的系统性回避。
 
 ## 矛盾与争议
 
@@ -48,7 +48,7 @@ stub: false
 
 - [[UAP披露历史]] — 披露运动背景
 - [[David Grusch]] — 核心信源与采访对象
-- [[Leslie Kean]] — 同类调查记者
+- [[wiki/Leslie Kean]] — 同类调查记者
 - [[Legacy Program（遗产计划）]] — 调查核心议题
 - [[著名UAP研究者分类图谱]] — 第5类调查记者
 

@@ -74,5 +74,6 @@ date: 2026-05-22
 - [[EBO信仰：灵魂场与神化概念]]
 - [[古代宇航员假说（含金字塔与马丘比丘解读）]] — 古代宇航员框架对本节内容的流行文化诠释
 - [[梵文吠陀古代意识科学与星际起源论]] — 印度吠陀传统的深度专条，含意识科学与NHI接触解读
+- [[阿富汗异常现象（Afghanistan Anomalous Encounters）]] — 现代军事报告与古代传统的地理锚点交叉
 
 [Source: raw/Non-Human Intelligences in Wisdom Traditions.md]

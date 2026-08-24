@@ -33,5 +33,6 @@ category: meta
 
 ## 相关链接
 
+- [[容器假说（Container Hypothesis）]] — Lazar/Bigelow/Grusch三源汇聚：意识=生物接口终端，飞行器=意识操作系统
 - [[NHI（非人类智能）]] — 上级分类
 - [[index]] — 全库索引

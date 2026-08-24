@@ -64,7 +64,7 @@ EBE（Extraterrestrial Biological Entity，外星生物实体）分类体系据�
 - 详见[[北欧人型实体（Nordics）]]
 
 ### 螳螂人（Mantids / Insectins）
-- 外形类似螳螂，约7英尺高
+- 外形类似螳螂，约7英尺高；详见[[螳螂人实体（Mantids）]]
 - 在绑架事件中担任"医疗官"或"导师"指挥角色
 - 拥有极强的精神力量，可直接向人类大脑上传复杂天体物理信息
 - 位于等级体系顶端
@@ -73,6 +73,7 @@ EBE（Extraterrestrial Biological Entity，外星生物实体）分类体系据�
 - 在地球独立进化的古老物种，起源于恐龙时代，生活在地下深处城市
 - 拥有先进的意识操纵技术（如"心理切换"开关）
 - 详见[[莱瑟塔档案（Lacerta Files）]]
+- 关于爬行动物现象的学术分析与批判见[[爬行动物现象调查（Reptilian Phenomenon）]]
 
 ### 同盟洋娃娃身体（Doll Bodies，麦克艾罗伊/Airl来源）
 - 由合成材料制成（非生物细胞），高度约40英寸，三指

@@ -115,6 +115,6 @@ Dolan的核心分析框架：黑色预算世界的科技水平已远超公开科
 - [[政府UAP虚假信息战术]]
 - [[MJ-12特种作战手册（SOM-1）]]
 - [[Dan Burisch人物档案]]
-- [[Richard Dolan]]
+- [[wiki/Richard Dolan]]
 
 [Source: raw/"公民披露听证会"（Citizen Hearing on Disclosure）.md]

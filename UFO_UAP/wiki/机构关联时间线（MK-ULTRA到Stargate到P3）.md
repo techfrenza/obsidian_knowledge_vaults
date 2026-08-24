@@ -5,6 +5,7 @@ tags: [MK-ULTRA, 星门计划, AATIP, P3, 机构演化, 意识技术, 情报历�
 source: "raw/机构关联时间线.md"
 category: "情报研究"
 date: "2026-07-15"
+updated: "2026-08-17"
 stub: false
 ---
 
@@ -20,6 +21,21 @@ stub: false
 | 1972–1995 | Stargate Project（及前身Grill Flame/Center Lane/Gondola Wish） | CIA→DoD→SAIC | 远程遥视（Remote Viewing）情报应用；Hal Puthoff、Russell Targ领导；1995年AIR报告称"不可靠"后正式终止 |
 | 2007–2012 | AAWSAP/AATIP | 五角大楼/Bigelow Aerospace | UAP威胁、生物/生理效应研究；Luis Elizondo领导；2017年公开后有限披露 |
 | 1990s–? | Project Preserve Destiny | NSA（据Dan Sherman） | 训练"直觉通讯员"通过心灵感应与外星实体沟通；来源：Sherman 1997年书《Above Black》 |
+| 1960s–? | P3计划（Psionic Predisposition Potential） | 黑项目承包商/五角大楼（据Jake Barber、J2等证人） | 系统筛选具备特殊神经遗传表型的"灵能资产"；训练其激活意识接口以操控回收飞行器；被视为Stargate的意识武器化延伸。"粉红资产"非正式称谓 [C级] |
+
+## P3计划：灵能资产的筛选与部署
+
+P3的核心逻辑与上述时间线形成完整的机构演化闭环：Stargate证明意识可被情报化利用（遥视），P3将其推进到意识可被用来操控回收飞行器的阶段。
+
+**筛选标准**：基底节高密度神经表型（Nolan MRI研究），家族遗传聚集性，儿童期创伤/NDE（被视为"暴力后门"打开过滤器），特定人口群体（左撇子、联觉者、原住民）。
+
+**训练协议**：压力接种（激活杏仁核）、多巴胺类药物诱导解离、超声靶向大脑特定区域、特定频率音调训练。
+
+**核心应用**：灵能召唤（意识邀请UAP进入特定空域）、心智系留驾驶（Cyanetic Tethering，通过意识接口操控飞行器）、诱饵回收（资产作为引诱器，随后用定向能武器击落飞行器）。
+
+**代价**：强制意识接口连接导致神经系统过载、脑白质损伤、类哈瓦那综合征症状。部分资产被视为可消耗资产，高死亡率 [C级证词]。
+
+[Source: raw/P3计划与"灵能资产"（Psionic Assets）.md]
 
 ## "内部确认→外部压制"假说检验
 
@@ -66,5 +82,9 @@ stub: false
 - [[政府UAP虚假信息战术]] — 信息管理机制的更广泛模式
 - [[Legacy Program（遗产计划）]] — 黑项目网络的另一节点
 - [[情报机构与意识依赖型UAP逆向工程结论]] — AAWSAP覆灭作为路线冲突证据的深度分析
+- [[经历者（Experiencers）群体研究]] — P3筛选的生物学基础与目标群体
+- [[高密度基底节生物天线假说]] — P3神经生物学基准的科学框架
+- [[双轨隔离认知控制战略]] — 意识轨与实物轨被有意隔离的战略框架
 
 [Source: raw/机构关联时间线.md]
+[Source: raw/P3计划与"灵能资产"（Psionic Assets）.md]

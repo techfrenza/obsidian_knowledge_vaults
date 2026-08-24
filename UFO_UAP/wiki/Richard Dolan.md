@@ -16,9 +16,11 @@ stub: false
 
 | 项目 | 内容 |
 |------|------|
-| 学术训练 | 罗切斯特大学历史学，专研冷战时期美国外交与安全政策 |
-| 研究方法 | FOIA文件、解密档案、政府内部备忘录 |
-| 主要著作 | *UFOs and the National Security State* 两卷本（2002, 2009） |
+| 出生 | 1962年，纽约布鲁克林；父为警察，母为护士 |
+| 教育 | Alfred University英语与历史学学士；University of Rochester历史学硕士（冷战研究方向）；Rhodes Scholar决赛入选者 |
+| 研究方法 | FOIA文件、解密档案、政府内部备忘录；冷战历史学训练背景 |
+| 主要著作 | *UFOs and the National Security State* 两卷本（2002, 2009）；*A.D. After Disclosure*（与Bryce Zabel合著，2012） |
+| 媒体 | History Channel *Hangar 1: The UFO Files* 等披露类节目顾问与主持 |
 
 ## 核心贡献
 
@@ -45,3 +47,4 @@ Dolan将自己定位为历史学家而非信仰者：以文件证据说话，对
 - [[公民披露听证会（Citizen Hearing on Disclosure）]] — Dolan"分裂文明/能源经济威胁"框架的核心发言场合
 
 [Source: raw/著名 UAP UFO 研究者列表.md]
+[Source: raw/Richard Dolan.md]

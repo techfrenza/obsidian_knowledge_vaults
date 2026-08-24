@@ -57,5 +57,5 @@ stub: false
 - [[AARO]] — 罗伯逊小组传统的当代延续
 - [[UAP披露历史]] — 1953年节点的关键历史背景
 - [[Gerald Haines]] — CIA 内部历史学家对类似动机的后续承认
-- [[Richard Dolan]] — 对罗伯逊小组长期影响的主要研究者
+- [[wiki/Richard Dolan]] — 对罗伯逊小组长期影响的主要研究者
 - [[Stanton Friedman]] — 记录了该小组建议对学术研究的损害

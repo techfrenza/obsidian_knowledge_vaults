@@ -33,7 +33,7 @@ UAP/UFO 领域研究者按**核心方法论与认识论立场**分为 7 个阵�
 | [[David Grusch]] | 前情报官员/吹哨人 | 国会证词：美国坠毁回收与逆向工程程序 |
 | [[Ryan Graves]] | 前海军飞行员 | Americans for Safe Aerospace；航空安全风险 |
 | [[Admiral Tim Gallaudet与USO研究\|Tim Gallaudet]] | 退役海军少将 | 海洋 UAP/USO 现象与披露支持 |
-| [[Eric Davis]] | 物理学家 | Wilson-Davis 备忘录；逆向工程讨论 |
+| [[wiki/Eric Davis]] | 物理学家 | Wilson-Davis 备忘录；逆向工程讨论 |
 
 ## 第 3 类：哲学/人类学/意识导向
 
@@ -51,12 +51,12 @@ UAP/UFO 领域研究者按**核心方法论与认识论立场**分为 7 个阵�
 专注物理证据、历史文件（如 MJ-12）、坠毁回收和长期政府程序。
 
 - **[[Stanton Friedman]]**（已故）：Roswell 和 MJ-12 文件主要调查者。
-- **[[Richard Dolan]]**：历史学家；《UFOs and the National Security State》；政府掩盖。
+- **[[wiki/Richard Dolan]]**：历史学家；《UFOs and the National Security State》；政府掩盖。
 - **[[Robert Hastings]]**：UAP 对核导弹基地的长期入侵历史。
 
 ## 第 5 类：调查记者与档案管理者
 
-- **[[Leslie Kean]]**：五角大楼 UAP 视频发布关键人物。
+- **[[wiki/Leslie Kean]]**：五角大楼 UAP 视频发布关键人物。
 - **[[Ross Coulthart]]**：坠毁回收和保密调查；《In Plain Sight》。
 - **[[George Knapp]]**：爆出 Bob Lazar 故事（1989）；Area 51/Skinwalker Ranch。
 - **John Greenwald**（The Black Vault）：通过 FOIA 获得大量解密 UFO 文件档案。
@@ -93,6 +93,7 @@ UAP/UFO 领域研究者按**核心方法论与认识论立场**分为 7 个阵�
 ## 关联条目
 
 - [[Go Fast视频与Gimbal视频（海军UAP传感器记录）]] — 第7类代表Mick West与第3/4类之间关于这两段视频的分析争议是认识论分歧的典型案例
+- [[John Greenewald Jr.与The Black Vault]] — 文件主义方法论代表；FOIA驱动的独立信息基础设施建设者
 
 ### 关键个人立场
 

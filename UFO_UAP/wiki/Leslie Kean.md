@@ -16,8 +16,11 @@ stub: false
 
 | 项目 | 内容 |
 |------|------|
-| 职业 | 独立调查记者，曾供职于多家主流媒体 |
-| 著作 | *UFOs: Generals, Pilots, and Government Officials Go on the Record*（2010） |
+| 家族 | 父Hamilton Fish Kean（环保慈善家），祖父Robert Kean（众议员），叔Thomas Kean（新泽西州长） |
+| 教育 | Spence School（纽约），Bard College；曾协助创立纽约上州禅宗中心 |
+| 早期职业 | Cornell大学鸟类学实验室摄影师；1990年代赴缅甸采访政治犯后转型调查记者 |
+| 媒体背景 | KPFA电台（Berkeley，太平洋广播网旗舰台），*Flashpoints*新闻节目 |
+| 主要著作 | *UFOs: Generals, Pilots, and Government Officials Go on the Record*（2010）；*Surviving Death*（2017，研究濒死体验） |
 | 核心突破 | 2017年《纽约时报》AATIP/Tic-Tac报道 |
 
 ## 核心贡献
@@ -45,3 +48,4 @@ Kean的报道策略是"数据优先，结论悬置"——呈现可核实的目�
 - [[著名UAP研究者分类图谱]] — 第5类调查记者
 
 [Source: raw/著名 UAP UFO 研究者列表.md]
+[Source: raw/Leslie Kean.md]
